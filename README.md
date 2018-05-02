@@ -95,13 +95,13 @@ Once the project Milestones have all been successfully completed, the shares can
 
 For example, within a project, the founders have chosen to reserve a 20% shareholding of their Smart Token Shares, 40% will be distributed to investors along the Funding Roadmap and the remaining 40% will distributed in the ICO at the end of the Funding Roadmap.
 
-**Outdated image:*
+*Example
 <p align="center">
-  <iframe src="https://e.infogram.com/2913a14a-e739-4796-86f6-0d5fddf8105c?src=embed" title="Copy: Roadmap Breakdown" width="700" height="775" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/2913a14a-e739-4796-86f6-0d5fddf8105c" style="color:#989898!important;text-decoration:none!important;" target="_blank">Copy: Roadmap Breakdown</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+  <img
+    src="resources/images/sts_distribution_white.png"
+    style="width: 1000px;"
+    >
 </p>
-
-**there is a default model for STS which project creators can manipulate to cater to the individual project.*
-
 <br>
 
 ### **Milestones**
@@ -114,30 +114,10 @@ A **Milestone** is a project goal or checkpoint that can be defined and tangibly
     >
 </p>
 
-<!-- **Outdated image:*
-<p align="center">
-   <img
-    src="milestone.png"
-    width="200"
-    ><img
-    src="milestone_completed.png"
-    width="200"
-    > 
-</p> -->
-
-
 ### **Funding Stages**
 A Funding Stage within a Funding Roadmap is a crowdfund with a defined fund goal, a funding timeframe and an account of how many Smart Token Shares will be distributed.
 
 For each Funding Stage, when the funds goal is met or surpassed within the predetermined time-frame, the funding goal is a success. The predetermined Smart Token Shares will then be distributed according to investor contribution. If, however the funds goal is not met within the predetermined time-frame, the contributed investor funds will be refunded.
-
-<!-- **Outdated image:*
-<p align="center">
-  <img
-    src="progress_bar.png"
-    width="800"
-    >
-</p> -->
 
 <p align="center">
   <img
@@ -145,6 +125,23 @@ For each Funding Stage, when the funds goal is met or surpassed within the prede
     width="800"
     >
 </p>
+
+<p align="center">
+  <img
+    src="resources/images/fs_current_fund.png"
+    width="800"
+    >
+</p>
+
+
+*This is only an example, every project has total flexibility on this
+<p align="center">
+  <img
+    src="resources/images/sts_discounts.png"
+    style="width: 1000px;"
+    >
+</p>
+
 
 ### **Funding Roadmap Forking**
 A Roadmap path can be split into two different directions at any stage, this is called **Forking**. This allows unrelated Milestones to be completed in parallel. The new Roadmap Fork will have its own source of funding, and is not interdependent on one another's completion for funding. Once a fork is completed, it will continue along the Funding Roadmap.
