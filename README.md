@@ -119,6 +119,7 @@ A Funding Stage within a Funding Roadmap is a crowdfund with a defined fund goal
 
 For each Funding Stage, when the funds goal is met or surpassed within the predetermined time-frame, the funding goal is a success. The predetermined Smart Token Shares will then be distributed according to investor contribution. If, however the funds goal is not met within the predetermined time-frame, the contributed investor funds will be refunded.
 
+*Example:*
 <p align="center">
   <img
     src="resources/images/funding_stages.png"
@@ -126,6 +127,7 @@ For each Funding Stage, when the funds goal is met or surpassed within the prede
     >
 </p>
 
+*Example:*
 <p align="center">
   <img
     src="resources/images/fs_current_fund.png"
@@ -133,8 +135,7 @@ For each Funding Stage, when the funds goal is met or surpassed within the prede
     >
 </p>
 
-
-*This is only an example, every project has total flexibility on this
+*Example:*
 <p align="center">
   <img
     src="resources/images/sts_discounts.png"
@@ -171,7 +172,7 @@ All information required for a KYC approval will be assessed and approved by The
 <br>
 <br>
 
-# Platfrom Structure *(WIP)*
+# Platform Structure
 *This is currently incomplete, only a CLI is in production, this is the future goal*
 
 We have designed **The Constructs** platform to be built upon the the NEO blockchain. Using NEO has been a conscious choice over other platforms for multiple reasons. 
@@ -188,10 +189,47 @@ Below is our platform configuration model we use to communicate between the NEO 
     width="400"
     > 
 </p>
-
-
-
 <br>
+
+# The STR Platform Token
+*Not to be confused with **Smart Token Shares** mentioned above*
+
+**The Construct** will deploy a NEP5 platform token onto the NEO network called **STR**. The STR token will be divisible up-to 8 decimals with a total supply of 10 Million tokens.
+
+Commonly **Inital Coin Offerings (ICO)** will raise and distribute tokens over one or two stages (private-sale and public-sale), this makes sense when the project has something real to offer and already has a solid foundation. Unfotunately this isnt always the case. 
+
+The **STR** token will be minted and distrubuted in a very unique manner. Unlike the simple distribution phases mentioned above, the STR token will incrementally be distributed over 5 stages. Each stage has a set sale discount amount, this is to reward and incentivise very early investors.
+
+<p align="center">
+   <img
+    src="resources/images/official_construct_stages.png"
+    width="800"
+    >
+</p>
+
+Each of the funding stages has a specifc milestone directly associated after it. This link defines the costs required to complete the task effectively. 
+
+<p align="center">
+   <img
+    src="resources/images/official_construct_roadmap.png"
+    width="800"
+    >
+</p> 
+
+We believe this token distribution method will allow The Construct to grow and delevop naturally without creating false promises, allowing investors to be involved during a very early stage, with a heavily discounted rate to offset the risk. 
+
+After **Funding Stage 3** The Construct is aimed to be a functioning platform on the NEO testnet. Subsequently the common Private and Pubic Crowdsales will commence which will distribute the vast majority of the STR tokens.
+
+## STR Token Distribution 
+*Specific dates and prices are yet to be announced*
+
+<p align="center">
+   <img
+    src="resources/images/official_construct_str_distribution.png"
+    width="800"
+    >
+</p> 
+
 
 # Outstanding Tasks
   - Function to migrate the contract for future updates
