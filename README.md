@@ -8,7 +8,7 @@
 <br>
 <br>
 
-## Pre-Release Version: 0.2.0
+## Pre-Release Version: 0.3.0
 
 <!-- <p align="center">
   <img
@@ -95,7 +95,7 @@ Every project submitted automatically has its own Smart Token Shares (STS). The 
 
 Once the project Milestones have all been successfully completed, the shares can be directly transferred to a proposed Public Token before an ICO is launched via a process we call Token Share Transfer. Alternatively, projects don’t have to result in an ICO, but The Construct is designed for this purpose.
 
-For example, within a project, the founders have chosen to reserve a 20% shareholding of their Smart Token Shares, 40% will be distributed to investors along the Funding Roadmap and the remaining 40% will distributed in the ICO at the end of the Funding Roadmap.
+For example, within a project, the founders have chosen to reserve a 25% shareholding of their Smart Token Shares, 25% will be distributed to investors along the Funding Roadmap and the remaining 50% will distributed in the ICO at the end of the Funding Roadmap.
 
 *Example
 <p align="center">
@@ -198,6 +198,14 @@ Below is our platform configuration model we use to communicate between the NEO 
 
 **The Construct** will deploy a NEP5 platform token onto the NEO network called **STR**. The STR token will be divisible up-to 8 decimals with a total supply of 10 Million tokens.
 
+## System Funtionality
+The STR token will function as a distribution mechanism to proportionally award STR holders GAS dividends generated from system fees. Addresses holding STR will be calculated periodically, and claiming these rewards will work in a similar manner to claiming GAS generated from NEO system token holders.
+
+The STR token holders will also often have the opportunity to vote on major platform decisons, where an opt-in majority consensus mechanism will be put in place. This will be intergrated directly into the website platform.
+
+The Construct indends to maintain heavily intergrated with its community, we believe this model will not only ensure its natural growth as a platform, but also enure our investors maintain a real-world invested interest within the platform.
+
+## Distribution Model
 Commonly **Inital Coin Offerings (ICO)** will raise and distribute tokens over one or two stages (private-sale and public-sale), this makes sense when the project has something real to offer and already has a solid foundation. Unfotunately this isnt always the case. 
 
 The **STR** token will be minted and distrubuted in a very unique manner. Unlike the simple distribution phases mentioned above, the STR token will incrementally be distributed over 5 stages. Each stage has a set sale discount amount, this is to reward and incentivise very early investors.
@@ -222,7 +230,7 @@ We believe this token distribution method will allow The Construct to grow and d
 
 After **Funding Stage 3** The Construct is aimed to be a functioning platform on the NEO testnet. Subsequently the common Private and Pubic Crowdsales will commence which will distribute the vast majority of the STR tokens.
 
-## STR Token Distribution 
+## STR Distribution Breakdown
 *Specific dates and prices are yet to be announced*
 
 <p align="center">
