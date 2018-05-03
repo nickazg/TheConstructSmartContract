@@ -8,6 +8,8 @@
 <br>
 <br>
 
+## Pre-Release Version: 0.2.0
+
 <!-- <p align="center">
   <img
     src="resources/images/title.png">
