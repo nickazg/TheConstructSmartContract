@@ -203,7 +203,7 @@ The STR token will function as a distribution mechanism to proportionally award 
 
 The STR token holders will also often have the opportunity to vote on major platform decisons, where an opt-in majority consensus mechanism will be put in place. This will be intergrated directly into the website platform.
 
-The Construct indends to maintain heavily intergrated with its community, we believe this model will not only ensure its natural growth as a platform, but also enure our investors maintain a real-world invested interest within the platform.
+The Construct intends to maintain heavily intergrated with its community, we believe this model will not only ensure its natural growth as a platform, but also enure our investors maintain a real-world invested interest within the platform.
 
 ## Distribution Model
 Commonly **Inital Coin Offerings (ICO)** will raise and distribute tokens over one or two stages (private-sale and public-sale), this makes sense when the project has something real to offer and already has a solid foundation. Unfotunately this isnt always the case. 
