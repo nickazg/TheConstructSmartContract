@@ -80,7 +80,7 @@ Crowdfunding underpins The Construct’s platform by segregating a traditional f
 
 
 ## Funding Roadmap
-At the project proposal stage, project creators will pre-determine milestones and fundings stages which make up the development of the product. This makes up the **Funding Roadmap**. The Funding Roadmap is publicly accessible to potential investors and the general public, aiming for transparency along the process. Crowdfunding underpins the Funding Roadmap, as funds are traded for a predetermined financial stake in the project, we call this Smart Token Shares.
+At the project proposal stage, project creators will pre-determine milestones and fundings stages which make up the development of the product. This makes up the **Funding Roadmap**. The Funding Roadmap is publicly accessible to potential investors and the general public, aiming for transparency along the process. Crowdfunding underpins the Funding Roadmap, as funds are traded for a predetermined financial stake in the project, we call this Project Sub Token.
 
 <p align="center">
   <img
@@ -90,17 +90,17 @@ At the project proposal stage, project creators will pre-determine milestones an
 </p>
 
 
-### **Smart Token Shares**
-Every project submitted automatically has its own Smart Token Shares (STS). The project creators determine the means of distribution for their Smart Token Shares, there are no prescriptive guidelines for how these are distributed. However, the distribution structure is publically accessible information so investors can make an informed decision.
+### **Project Sub Token**
+Every project submitted automatically has its own Project Sub Token. The project creators determine the means of distribution for their Project Sub Token, there are no prescriptive guidelines for how these are distributed. However, the distribution structure is publically accessible information so investors can make an informed decision.
 
 Once the project Milestones have all been successfully completed, the shares can be directly transferred to a proposed Public Token before an ICO is launched via a process we call Token Share Transfer. Alternatively, projects don’t have to result in an ICO, but The Construct is designed for this purpose.
 
-For example, within a project, the founders have chosen to reserve a 25% shareholding of their Smart Token Shares, 25% will be distributed to investors along the Funding Roadmap and the remaining 50% will distributed in the ICO at the end of the Funding Roadmap.
+For example, within a project, the founders have chosen to reserve a 25% shareholding of their Project Sub Token, 25% will be distributed to investors along the Funding Roadmap and the remaining 50% will distributed in the ICO at the end of the Funding Roadmap.
 
-*Example
+****Sub Token Share Example***
 <p align="center">
   <img
-    src="resources/images/sts_distribution_white.png"
+    src="resources/images/pst_distribution_white.png"
     style="width: 1000px;"
     >
 </p>
@@ -117,11 +117,13 @@ A **Milestone** is a project goal or checkpoint that can be defined and tangibly
 </p>
 
 ### **Funding Stages**
-A Funding Stage within a Funding Roadmap is a crowdfund with a defined fund goal, a funding timeframe and an account of how many Smart Token Shares will be distributed.
+A Funding Stage within a Funding Roadmap is a crowdfund with a defined fund goal, a funding timeframe and an account of how many Project Sub Tokens will be distributed.
 
-For each Funding Stage, when the funds goal is met or surpassed within the predetermined time-frame, the funding goal is a success. The predetermined Smart Token Shares will then be distributed according to investor contribution. If, however the funds goal is not met within the predetermined time-frame, the contributed investor funds will be refunded.
+Any stage can also have an associated discount, whereby Project Sub Tokens will be sold at a cheaper rate to the investor. Typically earlier stages will have a higher discount to offset investor risk. 
 
-*Example:*
+For each Funding Stage, when the funds goal is met or surpassed within the predetermined time-frame, the funding goal is a success. The predetermined Project Sub Token will then be distributed according to investor contribution. If, however the funds goal is not met within the predetermined time-frame, the contributed investor funds will be refunded.
+
+****Funding Stage Example:***
 <p align="center">
   <img
     src="resources/images/funding_stages.png"
@@ -129,18 +131,11 @@ For each Funding Stage, when the funds goal is met or surpassed within the prede
     >
 </p>
 
-*Example:*
-<p align="center">
-  <img
-    src="resources/images/fs_current_fund.png"
-    width="800"
-    >
-</p>
 
-*Example:*
+****Funding Stage Discount Example:***
 <p align="center">
   <img
-    src="resources/images/sts_discounts.png"
+    src="resources/images/pst_discounts.png"
     style="width: 1000px;"
     >
 </p>
@@ -167,11 +162,8 @@ A Roadmap path can be split into two different directions at any stage, this is 
 </p> -->
 
 # KYC (Know Your Customer)
-With a potential for an ICO token sale, a KYC approval is required for all investors and project admins involved.
+With a potential for an ICO token sale, a KYC approval is required for all investors and project admins involved. 
 
-All information required for a KYC approval will be assessed and approved by The Construct, stored on secure private servers. Hashes of all the information, along with the account details (address etc) will be saved in the contract, allowing the information to be verified by both parties.
-
-<br>
 <br>
 
 # Platform Structure
@@ -193,23 +185,23 @@ Below is our platform configuration model we use to communicate between the NEO 
 </p>
 <br>
 
-# The STR Platform Token
-*Not to be confused with **Smart Token Shares** mentioned above*
+# The Construct Token (CNS)
 
-**The Construct** will deploy a NEP5 platform token onto the NEO network called **STR**. The STR token will be divisible up-to 8 decimals with a total supply of 10 Million tokens.
+**The Construct** will deploy a NEP5 platform token onto the NEO network called **CNS**. The CNS token will be divisible up-to 8 decimals with a total supply of 10 Million tokens.
 
 ## System Funtionality
-The STR token will function as a distribution mechanism to proportionally award STR holders GAS dividends generated from system fees. Addresses holding STR will be calculated periodically, and claiming these rewards will work in a similar manner to claiming GAS generated from NEO system token holders.
+The CNS token will function as a distribution mechanism to proportionally award CNS holders **GAS (Neo Utility Coin)** dividends generated from system fees. Addresses holding CNS will be calculated periodically, and can be claimed directly on the platform.
 
-The STR token holders will also often have the opportunity to vote on major platform decisons, where an opt-in majority consensus mechanism will be put in place. This will be intergrated directly into the website platform.
+The CNS token holders will also often have the opportunity to vote on major platform decisons, where an opt-in majority consensus mechanism will be put in place. This will be intergrated directly into the website platform.
 
-The Construct intends to maintain heavily intergrated with its community, we believe this model will not only ensure its natural growth as a platform, but also enure our investors maintain a real-world invested interest within the platform.
+The Construct intends to maintain heavily intergrated with its community, we believe this model will not only ensure its natural growth as a platform, but also ensure our investors maintain a real-world invested interest within the platform.
 
 ## Distribution Model
 Commonly **Inital Coin Offerings (ICO)** will raise and distribute tokens over one or two stages (private-sale and public-sale), this makes sense when the project has something real to offer and already has a solid foundation. Unfotunately this isnt always the case. 
 
-The **STR** token will be minted and distrubuted in a very unique manner. Unlike the simple distribution phases mentioned above, the STR token will incrementally be distributed over 5 stages. Each stage has a set sale discount amount, this is to reward and incentivise very early investors.
+The **CNS** token will be minted and distrubuted in a very unique manner. Unlike the simple distribution phases mentioned above, the **CNS** token will incrementally be distributed over 5 stages. Early stages have an associated discount set from the standard sale price, this is to reward and incentivise very early investors.
 
+****Discounts are displayed as % below***
 <p align="center">
    <img
     src="resources/images/official_construct_stages.png"
@@ -226,11 +218,11 @@ Each of the funding stages has a specifc milestone directly associated after it.
     >
 </p> 
 
-We believe this token distribution method will allow The Construct to grow and delevop naturally without creating false promises, allowing investors to be involved during a very early stage, with a heavily discounted rate to offset the risk. 
+We believe this token distribution method will allow The Construct to grow and develop naturally without creating false promises, allowing investors to be involved during a very early stage, with a heavily discounted rate to offset the risk. 
 
-After **Funding Stage 3** The Construct is aimed to be a functioning platform on the NEO testnet. Subsequently the common Private and Pubic Crowdsales will commence which will distribute the vast majority of the STR tokens.
+After **Funding Stage 3** The Construct is aimed to be a functioning platform on the NEO testnet. Subsequently the common Private and Pubic Crowdsales will commence which will distribute the vast majority of the CNS tokens.
 
-## STR Distribution Breakdown
+## CNS Distribution Breakdown
 *Specific dates and prices are yet to be announced*
 
 <p align="center">
