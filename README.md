@@ -227,7 +227,7 @@ After **Funding Stage 3** The Construct is aimed to be a functioning platform on
 
 <p align="center">
    <img
-    src="resources/images/official_construct_str_distribution.png"
+    src="resources/images/official_construct_cns_distribution.png"
     width="800"
     >
 </p> 
