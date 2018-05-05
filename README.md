@@ -8,7 +8,7 @@
 <br>
 <br>
 
-## Pre-Release Version: 0.3.0
+## Pre-Release Version: 0.4.0
 
 <!-- <p align="center">
   <img
@@ -223,7 +223,7 @@ We believe this token distribution method will allow The Construct to grow and d
 After **Funding Stage 3** The Construct is aimed to be a functioning platform on the NEO testnet. Subsequently the common Private and Pubic Crowdsales will commence which will distribute the vast majority of the CNS tokens.
 
 ## CNS Distribution Breakdown
-*Specific dates and prices are yet to be announced*
+*Specific dates and prices will be announced before any funding begins.*
 
 <p align="center">
    <img
