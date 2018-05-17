@@ -196,6 +196,9 @@ The CNS token holders will also often have the opportunity to vote on major plat
 
 The Construct intends to maintain heavily intergrated with its community, we believe this model will not only ensure its natural growth as a platform, but also ensure our investors maintain a real-world invested interest within the platform.
 
+### Fee Structure Breakdown
+Fees on The Construct will be generated during the funding process of every project. 
+
 ## Distribution Model
 Commonly **Inital Coin Offerings (ICO)** will raise and distribute tokens over one or two stages (private-sale and public-sale), this makes sense when the project has something real to offer and already has a solid foundation. Unfotunately this isnt always the case. 
 
