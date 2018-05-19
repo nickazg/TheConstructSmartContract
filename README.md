@@ -8,7 +8,7 @@
 <br>
 <br>
 
-## Pre-Release Version: 0.5.0
+## Pre-Release Version: 0.6.0
 
 <!-- <p align="center">
   <img
@@ -189,15 +189,34 @@ Below is our platform configuration model we use to communicate between the NEO 
 
 **The Construct** will deploy a NEP5 platform token onto the NEO network called **CNS**. The CNS token will be divisible up-to 8 decimals with a total supply of 10 Million tokens.
 
-## System Funtionality
+## System Functionality
 The CNS token will function as a distribution mechanism to proportionally award CNS holders **GAS (Neo Utility Coin)** dividends generated from system fees. Addresses holding CNS will be calculated periodically, and can be claimed directly on the platform.
 
 The CNS token holders will also often have the opportunity to vote on major platform decisons, where an opt-in majority consensus mechanism will be put in place. This will be intergrated directly into the website platform.
 
 The Construct intends to maintain heavily intergrated with its community, we believe this model will not only ensure its natural growth as a platform, but also ensure our investors maintain a real-world invested interest within the platform.
 
-### Fee Structure Breakdown
-Fees on The Construct will be generated during the funding process of every project. 
+### Revenue Streams and Fee Structure
+All fees on The Construct will be charged in either GAS or CNS (depending on the payment method). For The Construct to build and maintain a foundation platform for many other projects, a constant and scalable revenue stream is essential. These fees will be proportionally awarded to CNS holders via a claiming mechnisim.
+
+| Event         | Fee           | *Condition*  |
+| :-------------: |:-------------:| :-----:|
+| Project Register      | **5 GAS**  | *100 USD equivalent* |
+| Funding Stage      | **5 %**       |   *Only when successful* |
+| SubToken to NEP5      | **100 GAS**       |   **Excluding NEP5 depoy fees* |
+
+**Project Registration:**
+A small project registration fee is crucial as it serves as a major deterrent for scammers and renders security attacks infeasible, while maintaining a relaively insignificant barrier to entry for serious entrepreneurs.
+
+**Funding Stage Fee:**
+Investors will never be taxed when contributing to a project, this is to ensure the investibility of a project isn't comprimised by launching on our platform. Apart from the small registration fee a project will not need to pay any fees upfront, only after a successful funding stage. The fee incurred will be proportional to the project success, at 5% of the awarded GAS/CNS for that stage, which will automatically be deduceted. 
+
+**SubToken to NEP5:**
+For a project to create a tradeable NEP5 standard token a conversion of the project's **Sub Token** will need to take place, which is essential for an ICO. A fee of 100 GAS will be incurred for the conversion to the NEP5 token which will include an audit process, requiring the time of an experienced developer. However the fee can easily be included in the previous funding stage, so for most projects this will be insignificant.
+
+**Also to note, the excluded fees to release an offical NEP5 token onto the NEO network is generally around 490 GAS. While significant, this is out of our control. We are looking into ways of working around this and potentially avoiding it altogether.*
+
+ 
 
 ## Distribution Model
 Commonly **Inital Coin Offerings (ICO)** will raise and distribute tokens over one or two stages (private-sale and public-sale), this makes sense when the project has something real to offer and already has a solid foundation. Unfotunately this isnt always the case. 
@@ -235,16 +254,42 @@ After **Funding Stage 3** The Construct is aimed to be a functioning platform on
     >
 </p> 
 
+# Public Application Programming Interface (API) 
+The Construct is planning to create a public API for other decentralised apps (DApps) to interact with projects on the platform directly. This will provide a mechanism for projects to grow in a flexible environment, benefiting from the use of external dapps to complete their milestones effiently and effectively.
 
-# Outstanding Tasks
-  - Function to migrate the contract for future updates
-  - Editable ```start_block``` and ```end_block``` till first block begins
-  - Milestone reverse voting (votes to deem milestone uncomplete)
-  - Automatically import contract to public key
-  - Streamline refund process to automatically input ```-to_addr``` and ```-from_addr```
+API calls from trusted external dapps will be able to update the status of a milestone or even mark it as completed based on their own internal mechanisms. This functionality provides granular control of the creation process, while still maintaining and fulfilling its larger promised goals. Project management and recruitment services will have significant benifit here as it will allow projects to scale naturally and remain heavily intergrated in the overall creation process. 
+
+While an API isnt technially necessary to read data stored on The Construct's smart contract, it does create an abstract layer to make the interaction simple and limit any unexpected behaviour.
+
+The API hasnt been released yet, this is a rough overview of what to expect.
+
+Roadmap:
+  - Read
+    - Milesones
+    - Funding Stages
+    - Project ID, Title & Description
+    - Active Stage (Funding Stage or Milestone)
+
+Milestone:
+  - Read
+    - ID, Title & Description
+  - Read/Write (From approved dapp contracts)
+    - Progress
+    - Completion
+    - Extra Arbitrary Metadata (as bytearray, this can be anything under 1KB)
+
+Funding Stage:
+  - Read
+    - ID & Title
+    - Goal
+    - Raised
+    - SubToken Supply
+    - Sucessful
+    - Start Block
+    - End Block
 
 # The Construct CLI (Python)
-*This is currently the main interface for the smart contract, convience functions have been built do deploy new projects, edit and inspect current ones. Along with the ability to contribute and claim contributions or refunds.*
+*This is currently the main interface for the proof-of-concept smart contract running on the testnet, convience functions have been built do deploy new projects, edit and inspect current ones. Along with the ability to contribute and claim contributions or refunds.*
 
 ## Installation:
 
