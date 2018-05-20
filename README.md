@@ -219,9 +219,9 @@ For a project to create a tradeable NEP5 standard token a conversion of the proj
  
 
 ## Distribution Model
-Commonly **Inital Coin Offerings (ICO)** will raise and distribute tokens over one or two stages (private-sale and public-sale), this makes sense when the project has something real to offer and already has a solid foundation. Unfotunately this isnt always the case. 
+Commonly **Initial Coin Offerings (ICO)** will raise and distribute tokens over one or two stages (private-sale and public-sale), this makes sense when the project has something real to offer and already has a solid foundation. Unfortunately this isn't always the case. 
 
-The **CNS** token will be minted and distrubuted in a very unique manner. Unlike the simple distribution phases mentioned above, the **CNS** token will incrementally be distributed over 5 stages. Early stages have an associated discount set from the standard sale price, this is to reward and incentivise very early investors.
+The **CNS** token will be minted and distributed in a very unique manner. Unlike the simple distribution phases mentioned above, the **CNS** token will incrementally be distributed over 5 stages. Early stages have an associated discount set from the standard sale price, this is to reward and incentivise very early investors.
 
 ****Discounts are displayed as % below***
 <p align="center">
@@ -231,7 +231,7 @@ The **CNS** token will be minted and distrubuted in a very unique manner. Unlike
     >
 </p>
 
-Each of the funding stages has a specifc milestone directly associated after it. This link defines the costs required to complete the task effectively. 
+Each of the funding stages has a specific milestone directly associated after it. This link defines the costs required to complete the task effectively. 
 
 <p align="center">
    <img
