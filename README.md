@@ -192,12 +192,12 @@ Below is our platform configuration model we use to communicate between the NEO 
 ## System Functionality
 The CNS token will function as a distribution mechanism to proportionally award CNS holders **GAS (Neo Utility Coin)** dividends generated from system fees. Addresses holding CNS will be calculated periodically, and can be claimed directly on the platform.
 
-The CNS token holders will also often have the opportunity to vote on major platform decisons, where an opt-in majority consensus mechanism will be put in place. This will be intergrated directly into the website platform.
+The CNS token holders will also often have the opportunity to vote on major platform decisions, where an opt-in majority consensus mechanism will be put in place. This will be integrated directly into the website platform.
 
-The Construct intends to maintain heavily intergrated with its community, we believe this model will not only ensure its natural growth as a platform, but also ensure our investors maintain a real-world invested interest within the platform.
+The Construct intends to maintain heavily integrated with its community, we believe this model will not only ensure its natural growth as a platform, but also ensure our investors maintain a real-world invested interest within the platform.
 
 ### Revenue Streams and Fee Structure
-All fees on The Construct will be charged in either GAS or CNS (depending on the payment method). For The Construct to build and maintain a foundation platform for many other projects, a constant and scalable revenue stream is essential. These fees will be proportionally awarded to CNS holders via a claiming mechnisim.
+All fees on The Construct will be charged in either GAS or CNS (depending on the payment method). For The Construct to build and maintain a foundation platform for many other projects, a constant and scalable revenue stream is essential. These fees will be proportionally awarded to CNS holders via a claiming mechanism.
 
 | Event         | Fee           | *Condition*  |
 | :-------------: |:-------------:| :-----:|
@@ -206,15 +206,15 @@ All fees on The Construct will be charged in either GAS or CNS (depending on the
 | SubToken to NEP5      | **100 GAS**       |   **Excluding NEP5 depoy fees* |
 
 **Project Registration:**
-A small project registration fee is crucial as it serves as a major deterrent for scammers and renders security attacks infeasible, while maintaining a relaively insignificant barrier to entry for serious entrepreneurs.
+A small project registration fee is crucial as it serves as a major deterrent for scammers and renders security attacks infeasible, while maintaining a relatively insignificant barrier to entry for serious entrepreneurs.
 
 **Funding Stage Fee:**
-Investors will never be taxed when contributing to a project, this is to ensure the investibility of a project isn't comprimised by launching on our platform. Apart from the small registration fee a project will not need to pay any fees upfront, only after a successful funding stage. The fee incurred will be proportional to the project success, at 5% of the awarded GAS/CNS for that stage, which will automatically be deduceted. 
+Investors will never be taxed when contributing to a project, this is to ensure the investability of a project isn't compromised by launching on our platform. Apart from the small registration fee a project will not need to pay any fees upfront, only after a successful funding stage. The fee incurred will be proportional to the project success, at 5% of the awarded GAS/CNS for that stage, which will automatically be deducted. 
 
 **SubToken to NEP5:**
 For a project to create a tradeable NEP5 standard token a conversion of the project's **Sub Token** will need to take place, which is essential for an ICO. A fee of 100 GAS will be incurred for the conversion to the NEP5 token which will include an audit process, requiring the time of an experienced developer. However the fee can easily be included in the previous funding stage, so for most projects this will be insignificant.
 
-**Also to note, the excluded fees to release an offical NEP5 token onto the NEO network is generally around 490 GAS. While significant, this is out of our control. We are looking into ways of working around this and potentially avoiding it altogether.*
+**Also to note, the excluded fees to release an official NEP5 token onto the NEO network is generally around 490 GAS. While significant, this is out of our control. We are looking into ways of working around this and potentially avoiding it altogether.*
 
  
 
